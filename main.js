@@ -7,8 +7,8 @@ const socialMedia = {
 }
 
 //* boas práticas nomenclatura de variáveis e funções:
-//* camelCase
-//* PascalCase
+//* camelCase - sempre deve ser usado em variáveis, funções
+//* PascalCase - sempre deve ser usado em classes
 //* snake_case
 
 // programação sempre começa a contar do 0
